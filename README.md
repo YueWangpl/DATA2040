@@ -1,5 +1,6 @@
-# DATA2040
-
+# Cassava Leaf Disease Classification Project
+-DATA2040- 
+ 
 ## Blog posts
 [Final Blog Post](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-3)
 
