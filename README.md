@@ -1,9 +1,12 @@
 # DATA2040
 
-[Blog post 1](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-1)  
-[Blog post 2](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-2)  
-[Blog post 3](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-3)
+## Blog posts
+[Final Blog Post](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-3)
 
+[Midway Blog Post](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-2)  
+[Initial Blog Post](https://nextjournal.com/yuewangpl/cassava-leaf-disease-classification-1)  
+
+## Video presentation
 [YouTube Presentation](https://youtu.be/JH8rwCM_SYs)
 
 ## Model Architecture
